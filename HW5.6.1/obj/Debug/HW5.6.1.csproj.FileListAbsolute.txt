@@ -1,0 +1,7 @@
+C:\Users\DaIko\source\repos\HW5.6.1\HW5.6.1\bin\Debug\HW5.6.1.exe.config
+C:\Users\DaIko\source\repos\HW5.6.1\HW5.6.1\bin\Debug\HW5.6.1.exe
+C:\Users\DaIko\source\repos\HW5.6.1\HW5.6.1\bin\Debug\HW5.6.1.pdb
+C:\Users\DaIko\source\repos\HW5.6.1\HW5.6.1\obj\Debug\HW5.6.1.csproj.AssemblyReference.cache
+C:\Users\DaIko\source\repos\HW5.6.1\HW5.6.1\obj\Debug\HW5.6.1.csproj.CoreCompileInputs.cache
+C:\Users\DaIko\source\repos\HW5.6.1\HW5.6.1\obj\Debug\HW5.6.1.exe
+C:\Users\DaIko\source\repos\HW5.6.1\HW5.6.1\obj\Debug\HW5.6.1.pdb
